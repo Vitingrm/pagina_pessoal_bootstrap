@@ -19,7 +19,7 @@ Este projeto contém uma página pessoal desenvolvida utilizando HTML, CSS e Jav
 
 Abra os arquivos `index.html` em um navegador web.
 
-Link do Github Pages:
+Link do Github Pages: https://vitingrm.github.io/pagina_pessoal_bootstrap/
 
 ## Tecnologias Utilizadas
 
